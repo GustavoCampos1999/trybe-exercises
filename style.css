@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+header {
+  background-color: green;
+  text-align: center;
+  width: 100%;
+  margin: 0%;
+  color: aliceblue;
+  top: 0;
+  position: fixed;
+}
+
+img {
+  margin-top: 100px;
+}
+
+#titulo {
+  background-color: green;
+  text-align: center;
+  margin: 0%;
+  color: aliceblue;
+}
+
+div {
+  columns: 2;
+}
+
